@@ -53,6 +53,10 @@ Here are some examples from my dotfiles
 [tmux.conf](https://github.com/imomaliev/dotfiles/blob/7eebbc6e1b68240eba9cf76386db6bbdfb09435f/roles/tmux/files/tmux.conf#L76)
 [session-style-hook](https://github.com/imomaliev/dotfiles/blob/7eebbc6e1b68240eba9cf76386db6bbdfb09435f/roles/tmux/files/hooks/set_session_style.sh)
 
+### Inspirations
+
+Tmux peacock inspired by https://github.com/johnpapa/vscode-peacock
+
 ### License
 
 [MIT](LICENSE)
