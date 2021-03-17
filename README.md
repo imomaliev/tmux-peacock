@@ -2,7 +2,7 @@
 
 Plugin that changes tmux styles based on session name.
 
-![](https://cdn.loom.com/sessions/thumbnails/b5c92d40624544c1a894e1e5bb18d070-with-play.gif)
+[![asciicast](https://asciinema.org/a/399925.svg)](https://asciinema.org/a/399925)
 
 ### Installation with Tmux Plugin Manager (recommended)
 
