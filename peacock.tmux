@@ -22,8 +22,8 @@ main() {
     tmux set-hook -ga session-renamed "run-shell '${window_style_hook:-$default_window_style_hook}'"
     # using additional window hook because some settings are not applied properly
     # on 'session-created' hook
+    tmux set-hook -ga window-linked "run-shell '$default_set_environment_hook'"
     tmux set-hook -ga window-linked "run-shell '${window_style_hook:-$default_window_style_hook}'"
-
 }
 
 main
