@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 set -euo pipefail
 
 # https://superuser.com/questions/410017/how-do-i-know-current-tmux-session-name-by-running-tmux-command
